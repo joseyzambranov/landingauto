@@ -134,7 +134,9 @@ justify-content: space-between;
 }
 
 .container h2{
-    font-size: 40px;
+    margin-top: 20px;
+    font-weight: 300;
+    font-size: 35px;
     padding-bottom: 50px;
     color: #fff;
    
